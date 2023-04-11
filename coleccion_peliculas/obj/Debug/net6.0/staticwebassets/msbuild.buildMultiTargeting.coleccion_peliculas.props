@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\coleccion_peliculas.props" />
+</Project>
